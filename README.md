@@ -2,7 +2,7 @@
 
 This GitHub repo contains my work for the class "Natural Language Processing", in my third year at ENSAE - DSSA track.
 
-I chose the "TP + Mini-project Track", and I chose to work on the following article : 
+I chose the "TP + Mini-project Track", and I chose to work on a Mini-Project about language identification, based on the following article : 
 
 Amir Hossein Kargaran, Ayyoob Imani, François Yvon, and Hinrich Schuetze. 
 GlotLID: Language Identification for Low-Resource Languages. 
