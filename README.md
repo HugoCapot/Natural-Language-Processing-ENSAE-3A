@@ -1,10 +1,16 @@
-# Natural-Language-Processing-ENSAE-3A
+# Language identification : A Study of the GlotLID-M Model - NLP Mini-Project
 
-TP Track
+This GitHub repo contains my work for the class "Natural Language Processing".
 
-But : Faire trois TPs en quatre séances, et un mini-projet sur deux séances. 
-TP 1 : Text classification
-TP 2 : Text Embedding
-TP 3 : Language models
+I chose the "TP + Mini-project Track", and I chose to work on the following article : 
 
-Choix du sujet : Voir la liste des propositions (ou un autre sujet choisi par nous-mêmes). On s'en fiche de si un autre groupe le fait aussi. 
+
+Amir Hossein Kargaran, Ayyoob Imani, François Yvon, and Hinrich Schuetze. GlotLID: Lan-
+guage Identification for Low-Resource Languages. In Houda Bouamor, Juan Pino, and Kalika
+Bali, editors, Findings of the Association for Computational Linguistics: EMNLP 2023, pages
+6155–6218, Singapore, December 2023. Association for Computational Linguistics.
+
+The repo contains the following documents : 
+- `README.md' : Read-me document that presents the repo
+- `Report NLP Hugo CAPOT.pdf` : Report of the project, with explantions and result 
+- `Code NLP Hugo CAPOT.ipynb` : Commented Jupyter Notebook that contains all my work for the project
