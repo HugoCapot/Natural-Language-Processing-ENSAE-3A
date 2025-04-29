@@ -11,6 +11,6 @@ Findings of the Association for Computational Linguistics: EMNLP 2023, pages 615
 Association for Computational Linguistics.
 
 The repo contains the following documents : 
-- `README.md' : Read-me document that presents the repo
+- `README.md` : Read-me document that presents the repo
 - `Report NLP Hugo CAPOT.pdf` : Report of the project, with explantions and result 
 - `Code NLP Hugo CAPOT.ipynb` : Commented Jupyter Notebook that contains all my work for the project
